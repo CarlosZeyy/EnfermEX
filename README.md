@@ -66,7 +66,7 @@ POSTGRES_USER=seu_usuario_db
 POSTGRES_PASSWORD=sua_senha_db
 
 POSTGRES_DB=enfermex_db
-````
+```
 
 #### Configurações de E-mail (Para recuperação de senha)
 ```bash
